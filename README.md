@@ -13,5 +13,9 @@ El sitio fue creado con el objetivo de practicar y reforzar conocimientos básic
 🚫 **Este proyecto NO es responsive.**  
 Está pensado para visualizarse correctamente en dispositivos de escritorio.
 
+## Ver el sitio web
+🌐 Podés visitar el sitio en el siguiente enlace:  
+[https://gioriof.github.io/kill-beef-world-web/](https://gioriof.github.io/kill-beef-world-web/)
+
 ## Autor
 Giovanna Iorio
